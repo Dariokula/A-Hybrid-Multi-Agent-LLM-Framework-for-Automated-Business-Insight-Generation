@@ -127,23 +127,3 @@ Reproduction notebooks live in `project_v2/` (e.g., `eval_exp_perform.ipynb`, `e
 Aggregated results and evaluator packs are stored in `experiments/`.
 
 ---
-
-
-## Minimal requirements
-
-```text
-# Core, pinned to match the environment scan (reproducible)
-ipython==8.30.0
-httpx==0.28.1
-matplotlib==3.10.7
-numpy==2.3.5
-pandas==2.3.3
-scikit-learn==1.7.2
-
-# Backends / loaders (present in codebase; version not detected via metadata in scan)
-openai>=1.0.0
-PyPDF2>=3.0.0
-
-# Optional: notebooks
-jupyter>=1.0.0
-```
