@@ -1,0 +1,15 @@
+# Install with: pip install -r requirements.txt
+# Core (pinned to match the environment scan for reproducibility)
+ipython==8.30.0
+httpx==0.28.1
+matplotlib==3.10.7
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+
+# Backends / loaders (referenced by the codebase; scan didn't detect dist metadata)
+openai>=1.0.0
+PyPDF2>=3.0.0
+
+# Optional: notebooks
+jupyter>=1.0.0
