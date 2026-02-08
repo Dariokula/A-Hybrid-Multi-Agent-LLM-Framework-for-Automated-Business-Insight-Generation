@@ -1,0 +1,1 @@
+Predict the likely ta_status if start is 10 days early and resource group ‘Fräsen DM100’.

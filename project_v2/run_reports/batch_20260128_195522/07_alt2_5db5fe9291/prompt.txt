@@ -1,0 +1,1 @@
+Plot the monthly start schedule deviation trend over time for function check operations.

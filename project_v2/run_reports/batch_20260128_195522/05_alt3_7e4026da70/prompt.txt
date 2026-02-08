@@ -1,0 +1,1 @@
+Give me a breakdown of average cycle times per ressource group for finished parts.

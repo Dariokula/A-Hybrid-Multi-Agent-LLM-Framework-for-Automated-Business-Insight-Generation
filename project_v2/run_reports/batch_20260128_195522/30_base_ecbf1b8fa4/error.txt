@@ -1,0 +1,37 @@
+Traceback (most recent call last):
+  File "C:\Users\DarioKulaszewski\AppData\Local\Temp\ipykernel_28800\3171366399.py", line 38, in run_all_prompts
+    state, df_out, results = await run_pipeline(
+                             ^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\pipeline\engine.py", line 308, in run_pipeline
+    meta, df_curr = await _run_one_step(
+                    ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\pipeline\engine.py", line 226, in _run_one_step
+    meta, df_next = await fn(df=df_curr, state=state, df_profile=df_profile, agents=agents)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\pipeline\steps\analyze.py", line 102, in step_analyze
+    res = run_scenario_evaluation(df=df, viz_spec=viz_spec, aggregate_ctx=aggregate_ctx, prompt=prompt_text, scenario=scenario)
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\analysis\prescriptive\scenario_evaluation.py", line 140, in run_scenario_evaluation
+    X, yv, meta = _prep_features(df, y, max_levels=20)
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\analysis\prescriptive\scenario_evaluation.py", line 74, in _prep_features
+    X = pd.get_dummies(Xraw, drop_first=False)
+  File "C:\Users\DarioKulaszewski\AppData\Roaming\Python\Python313\site-packages\pandas\core\reshape\encoding.py", line 225, in get_dummies
+    result = concat(with_dummies, axis=1)
+  File "C:\Users\DarioKulaszewski\AppData\Roaming\Python\Python313\site-packages\pandas\core\reshape\concat.py", line 382, in concat
+    op = _Concatenator(
+        objs,
+    ...<8 lines>...
+        sort=sort,
+    )
+  File "C:\Users\DarioKulaszewski\AppData\Roaming\Python\Python313\site-packages\pandas\core\reshape\concat.py", line 445, in __init__
+    objs, keys = self._clean_keys_and_objs(objs, keys)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\DarioKulaszewski\AppData\Roaming\Python\Python313\site-packages\pandas\core\reshape\concat.py", line 507, in _clean_keys_and_objs
+    raise ValueError("No objects to concatenate")
+ValueError: No objects to concatenate

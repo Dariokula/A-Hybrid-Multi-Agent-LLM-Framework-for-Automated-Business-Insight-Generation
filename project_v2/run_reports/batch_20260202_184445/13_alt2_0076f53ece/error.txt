@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "C:\Users\DarioKulaszewski\AppData\Local\Temp\ipykernel_35196\1504903071.py", line 42, in run_all_prompts_jupyter
+    state, df_out, results = await run_pipeline(
+                             ^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\pipeline\engine.py", line 308, in run_pipeline
+    meta, df_curr = await _run_one_step(
+                    ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\pipeline\engine.py", line 226, in _run_one_step
+    meta, df_next = await fn(df=df_curr, state=state, df_profile=df_profile, agents=agents)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\pipeline\steps\analyze.py", line 92, in step_analyze
+    res = run_forecasting(df=df, viz_spec=viz_spec, aggregate_ctx=aggregate_ctx, prompt=prompt_text)
+  File "C:\Users\DarioKulaszewski\OneDrive - deepIng business solutions GmbH\deepIng - Team - Dokumente\23 Projekte\2024 deep.Control\data_agent_deeping\project_v2\analysis\predictive\forecasting.py", line 356, in run_forecasting
+    last_val = float(ts.loc[last_t])
+  File "C:\Users\DarioKulaszewski\AppData\Roaming\Python\Python313\site-packages\pandas\core\series.py", line 251, in wrapper
+    raise TypeError(f"cannot convert the series to {converter}")
+TypeError: cannot convert the series to <class 'float'>

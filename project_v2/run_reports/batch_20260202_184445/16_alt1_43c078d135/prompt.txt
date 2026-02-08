@@ -1,0 +1,1 @@
+Given start deviation is 3 days and cycle time is 2 days, predict the end deviation.

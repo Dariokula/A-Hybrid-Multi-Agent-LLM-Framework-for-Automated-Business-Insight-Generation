@@ -1,0 +1,1 @@
+If start deviation is 3 days and cycle time is 2 days, what would be a good prediction for the end deviation?

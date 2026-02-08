@@ -1,0 +1,848 @@
+[
+  {
+    "block_id": 1,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Show the distribution of end schedule deviation for operations labeled 'mit TA'.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\01_base_41c5bd47b3"
+  },
+  {
+    "block_id": 1,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Plot the distribution of end schedule deviation for operations labeled 'mit TA'.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\01_alt1_b4943346c8"
+  },
+  {
+    "block_id": 1,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Visualize how end schedule deviation is distributed for operations labeled 'mit TA'.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\01_alt2_8b78dd77b5"
+  },
+  {
+    "block_id": 1,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Provide a histogram-style view of end schedule deviation for operations labeled 'mit TA'.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\01_alt3_dd202ca14e"
+  },
+  {
+    "block_id": 2,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Display the distribution of cycle time deviation for sawing operations with completion in 2024.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\02_base_a337eb4b69"
+  },
+  {
+    "block_id": 2,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Show the distribution of cycle time deviation for sawing operations with completion in 2024.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\02_alt1_9723a96004"
+  },
+  {
+    "block_id": 2,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Visualize the distribution of cycle time deviation for sawing operations completed in 2024.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\02_alt2_863f18111a"
+  },
+  {
+    "block_id": 2,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Plot cycle time deviation distribution for sawing operations with completion in 2024.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\02_alt3_1513b972ce"
+  },
+  {
+    "block_id": 3,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Show me a statistical summary of the cycle times for ressource group Drahtschneiden.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\03_base_572f221ab3"
+  },
+  {
+    "block_id": 3,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Provide a statistical summary of the cycle times for ressource group Drahtschneiden.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\03_alt1_40556acdf9"
+  },
+  {
+    "block_id": 3,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Give me summary statistics for the cycle times in ressource group Drahtschneiden.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\03_alt2_0c95317206"
+  },
+  {
+    "block_id": 3,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Compute a descriptive statistical summary of cycle times for ressource group Drahtschneiden.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\03_alt3_3e62879831"
+  },
+  {
+    "block_id": 4,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Display key statistics of cycles times for finished operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\04_base_c48ec00393"
+  },
+  {
+    "block_id": 4,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Show key statistics of cycles times for finished operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\04_alt1_3996e3c13d"
+  },
+  {
+    "block_id": 4,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Provide key summary statistics for cycles times of finished operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\04_alt2_23ef44c346"
+  },
+  {
+    "block_id": 4,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Report the main descriptive statistics of cycles times for finished operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\04_alt3_076c9923ec"
+  },
+  {
+    "block_id": 5,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "What are average cycle times by ressource group for finished parts?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\05_base_1fc15e6c9e"
+  },
+  {
+    "block_id": 5,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Show average cycle times by ressource group for finished parts.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\05_alt1_1d0a5a1b70"
+  },
+  {
+    "block_id": 5,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Compute the average cycle times by ressource group for finished parts.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\05_alt2_71666a7ade"
+  },
+  {
+    "block_id": 5,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Give me a breakdown of average cycle times per ressource group for finished parts.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\05_alt3_7e4026da70"
+  },
+  {
+    "block_id": 6,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Compare the max lead times for Fräsen Gruppe Kleinteile by operation type.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\06_base_01c699ca44"
+  },
+  {
+    "block_id": 6,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Show a comparison of the max lead times for Fräsen Gruppe Kleinteile by operation type.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\06_alt1_c7ed5c2274"
+  },
+  {
+    "block_id": 6,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Compare max lead times across operation type for Fräsen Gruppe Kleinteile.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\06_alt2_b067ccfde7"
+  },
+  {
+    "block_id": 6,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Visualize max lead times for Fräsen Gruppe Kleinteile grouped by operation type.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\06_alt3_e1f2e9910d"
+  },
+  {
+    "block_id": 7,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Over time, how is monthly start schedule deviation developing for function check operations?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\07_base_2f8021bc90"
+  },
+  {
+    "block_id": 7,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Show how monthly start schedule deviation evolves over time for function check operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\07_alt1_c2a5305443"
+  },
+  {
+    "block_id": 7,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Plot the monthly start schedule deviation trend over time for function check operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\07_alt2_5db5fe9291"
+  },
+  {
+    "block_id": 7,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "How does monthly start schedule deviation change over time for function check operations?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\07_alt3_e82e9cf382"
+  },
+  {
+    "block_id": 8,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Show me the trend for weekly end schedule deviations of operations in 2025.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\08_base_2443c5a85e"
+  },
+  {
+    "block_id": 8,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Plot the weekly end schedule deviations trend for operations in 2025.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\08_alt1_27bd954a41"
+  },
+  {
+    "block_id": 8,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Display how weekly end schedule deviations develop for operations in 2025.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\08_alt2_6a67b8155a"
+  },
+  {
+    "block_id": 8,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Visualize the weekly trend of end schedule deviations for operations in 2025.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\08_alt3_bfec72096e"
+  },
+  {
+    "block_id": 9,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "How is TA Zugang correlating to TA Abgang for Fräsen DM100 operations?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\09_base_23d4d4c411"
+  },
+  {
+    "block_id": 9,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Show the correlation between TA Zugang and TA Abgang for Fräsen DM100 operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\09_alt1_6a3ab1cfec"
+  },
+  {
+    "block_id": 9,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Visualize how TA Zugang relates to TA Abgang for Fräsen DM100 operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\09_alt2_1e7e7b28c7"
+  },
+  {
+    "block_id": 9,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Quantify the relationship (correlation) between TA Zugang and TA Abgang for Fräsen DM100 operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\09_alt3_6d27654da1"
+  },
+  {
+    "block_id": 10,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Show me how the numerical values in the data are related to each other, finished operations only.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\10_base_ae7da1b821"
+  },
+  {
+    "block_id": 10,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "For finished operations only, show how the numerical values in the data relate to each other.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\10_alt1_dd5c08960c"
+  },
+  {
+    "block_id": 10,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Create an overview of relationships among the numerical values, finished operations only.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\10_alt2_4c09005c78"
+  },
+  {
+    "block_id": 10,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "For finished operations only, visualize relationships between the numerical values in the data.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\10_alt3_fc0a2b8bef"
+  },
+  {
+    "block_id": 11,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "What are the main drivers for end-dates being higher or lower? Only operations in 2024.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\11_base_4eafe2ce0a"
+  },
+  {
+    "block_id": 11,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Identify the main drivers for end-dates being higher or lower, only operations in 2024.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\11_alt1_23f322d077"
+  },
+  {
+    "block_id": 11,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "For only operations in 2024, what factors are driving end-dates to be higher or lower?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\11_alt2_4ef683c7de"
+  },
+  {
+    "block_id": 11,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Explain the strongest drivers of higher vs lower end-dates for only operations in 2024.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\11_alt3_4dfe4824f1"
+  },
+  {
+    "block_id": 12,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Which drivers affected lead times for assembly operations?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\12_base_a276aa8bae"
+  },
+  {
+    "block_id": 12,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Identify which drivers affected lead times for assembly operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\12_alt1_24bd22444f"
+  },
+  {
+    "block_id": 12,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "What factors are driving lead times for assembly operations?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\12_alt2_fe0194852e"
+  },
+  {
+    "block_id": 12,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Show the key drivers influencing lead times for assembly operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\12_alt3_7896b7d8eb"
+  },
+  {
+    "block_id": 13,
+    "variant": "base",
+    "status": "error",
+    "prompt": "Forecast weekly average end-date deviation for the next 6 weeks.",
+    "error": "cannot convert the series to <class 'float'>",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\13_base_e5e6ca90eb"
+  },
+  {
+    "block_id": 13,
+    "variant": "alt1",
+    "status": "error",
+    "prompt": "Predict weekly average end-date deviation for the next 6 weeks.",
+    "error": "cannot convert the series to <class 'float'>",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\13_alt1_bdba9c5420"
+  },
+  {
+    "block_id": 13,
+    "variant": "alt2",
+    "status": "error",
+    "prompt": "Create a forecast of weekly average end-date deviation for the next 6 weeks.",
+    "error": "cannot convert the series to <class 'float'>",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\13_alt2_0076f53ece"
+  },
+  {
+    "block_id": 13,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Estimate the weekly average end-date deviation over the next 6 weeks.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\13_alt3_863a58cb52"
+  },
+  {
+    "block_id": 14,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Show me how the maximum start deviation will change for the next 6 weeks.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\14_base_345cc0ab85"
+  },
+  {
+    "block_id": 14,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Forecast how the maximum start deviation will change for the next 6 weeks.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\14_alt1_e379078703"
+  },
+  {
+    "block_id": 14,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Predict the change in maximum start deviation for the next 6 weeks.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\14_alt2_593719e9e5"
+  },
+  {
+    "block_id": 14,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Display the expected trend of maximum start deviation for the next 6 weeks.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\14_alt3_8e37d79a21"
+  },
+  {
+    "block_id": 15,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "What is the expected end-date deviation for a new case given start delay of 10 days and run-through time of 3 days.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\15_base_5ee09c6d53"
+  },
+  {
+    "block_id": 15,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Estimate the expected end-date deviation for a new case given start delay of 10 days and run-through time of 3 days.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\15_alt1_365ed03743"
+  },
+  {
+    "block_id": 15,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Predict the expected end-date deviation for a new case with start delay of 10 days and run-through time of 3 days.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\15_alt2_00ca9c6f98"
+  },
+  {
+    "block_id": 15,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Given start delay of 10 days and run-through time of 3 days, what end-date deviation do you expect for a new case?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\15_alt3_fe7ee57ec9"
+  },
+  {
+    "block_id": 16,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "If start deviation is 3 days and cycle time is 2 days, what would be a good prediction for the end deviation?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\16_base_90bb452d16"
+  },
+  {
+    "block_id": 16,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Given start deviation is 3 days and cycle time is 2 days, predict the end deviation.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\16_alt1_43c078d135"
+  },
+  {
+    "block_id": 16,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "What end deviation would you predict if start deviation is 3 days and cycle time is 2 days?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\16_alt2_2ebad983ae"
+  },
+  {
+    "block_id": 16,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Provide a reasonable prediction of end deviation when start deviation is 3 days and cycle time is 2 days.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\16_alt3_e466171fd1"
+  },
+  {
+    "block_id": 17,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Predict the lead time deviation if lead time is 3 days and start deviation is -20 days.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\17_base_d9ea9ad402"
+  },
+  {
+    "block_id": 17,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "What is the predicted lead time deviation if lead time is 3 days and start deviation is -20 days?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\17_alt1_163aaee82a"
+  },
+  {
+    "block_id": 17,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Estimate lead time deviation given lead time is 3 days and start deviation is -20 days.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\17_alt2_6522218ea6"
+  },
+  {
+    "block_id": 17,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Given lead time is 3 days and start deviation is -20 days, predict the lead time deviation.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\17_alt3_8da6394894"
+  },
+  {
+    "block_id": 18,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Classify the likely ta_status if start is 10 days early and resource group ‘Fräsen DM100’.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\18_base_00f55bc929"
+  },
+  {
+    "block_id": 18,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Predict the likely ta_status if start is 10 days early and resource group ‘Fräsen DM100’.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\18_alt1_97f2d764a2"
+  },
+  {
+    "block_id": 18,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "What ta_status would you classify if start is 10 days early and resource group ‘Fräsen DM100’?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\18_alt2_89c13981a4"
+  },
+  {
+    "block_id": 18,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Given start is 10 days early and resource group ‘Fräsen DM100’, classify the most likely ta_status.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\18_alt3_6a4557aeac"
+  },
+  {
+    "block_id": 19,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Which ta status is to expect for a operation type 'Kleinbauteile schlichten' with a cycle time of 1?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\19_base_bb9ac9c89a"
+  },
+  {
+    "block_id": 19,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Predict which ta status is to expect for a operation type 'Kleinbauteile schlichten' with a cycle time of 1.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\19_alt1_231f481e84"
+  },
+  {
+    "block_id": 19,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "For a operation type 'Kleinbauteile schlichten' with a cycle time of 1, what ta status should we expect?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\19_alt2_b861a006b0"
+  },
+  {
+    "block_id": 19,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Classify the expected ta status for a operation type 'Kleinbauteile schlichten' given a cycle time of 1.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\19_alt3_f4f4983f2b"
+  },
+  {
+    "block_id": 20,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Classify a likely ta status in a situation where the operation startet 20 days early with a 'Funktionsprüfung'.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\20_base_3385c39650"
+  },
+  {
+    "block_id": 20,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Predict a likely ta status when the operation startet 20 days early with a 'Funktionsprüfung'.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\20_alt1_3b68bfe11f"
+  },
+  {
+    "block_id": 20,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "What ta status would you classify if the operation startet 20 days early with a 'Funktionsprüfung'?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\20_alt2_97cfde00d7"
+  },
+  {
+    "block_id": 20,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Given the operation startet 20 days early with a 'Funktionsprüfung', classify the most likely ta status.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\20_alt3_fd49fe54c9"
+  },
+  {
+    "block_id": 21,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "How is the cycle time distributed for Profilschleifen across ta status categories?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\21_base_95a1da2729"
+  },
+  {
+    "block_id": 21,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Show the distribution of cycle time for Profilschleifen across ta status categories.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\21_alt1_3265cfdaa8"
+  },
+  {
+    "block_id": 21,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Visualize how cycle time is distributed for Profilschleifen by ta status categories.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\21_alt2_ed00eea6f6"
+  },
+  {
+    "block_id": 21,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Plot cycle time distributions for Profilschleifen split by ta status categories.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\21_alt3_3b592b0a6a"
+  },
+  {
+    "block_id": 22,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "For Konstruktion operations, what are the main statistics about the end schedule deviation?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\22_base_ee0cf3c757"
+  },
+  {
+    "block_id": 22,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Show the main statistics about the end schedule deviation for Konstruktion operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\22_alt1_b9b44f96b9"
+  },
+  {
+    "block_id": 22,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Provide summary statistics of end schedule deviation for Konstruktion operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\22_alt2_4e9781ef1a"
+  },
+  {
+    "block_id": 22,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Report the key descriptive statistics for end schedule deviation in Konstruktion operations.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\22_alt3_89ee6f3ca6"
+  },
+  {
+    "block_id": 23,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Which resource groups drive the end-date deviation the most?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\23_base_08178aed3c"
+  },
+  {
+    "block_id": 23,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Identify which resource groups drive end-date deviation the most.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\23_alt1_5d72c1a761"
+  },
+  {
+    "block_id": 23,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Which resource groups have the strongest impact on end-date deviation?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\23_alt2_71c49a4f90"
+  },
+  {
+    "block_id": 23,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Show the resource groups with the biggest contribution to end-date deviation.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\23_alt3_e71d6846dd"
+  },
+  {
+    "block_id": 24,
+    "variant": "base",
+    "status": "error",
+    "prompt": "Forecast the next 16 weeks of weekly average Lead-time deviation.",
+    "error": "cannot convert the series to <class 'float'>",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\24_base_2858fd3000"
+  },
+  {
+    "block_id": 24,
+    "variant": "alt1",
+    "status": "error",
+    "prompt": "Predict the weekly average Lead-time deviation for the next 16 weeks.",
+    "error": "cannot convert the series to <class 'float'>",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\24_alt1_78287aff47"
+  },
+  {
+    "block_id": 24,
+    "variant": "alt2",
+    "status": "error",
+    "prompt": "Create a forecast for weekly average Lead-time deviation over the next 16 weeks.",
+    "error": "cannot convert the series to <class 'float'>",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\24_alt2_54271573ed"
+  },
+  {
+    "block_id": 24,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Estimate weekly average Lead-time deviation across the next 16 weeks.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\24_alt3_f796de96ba"
+  },
+  {
+    "block_id": 25,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Which resource group should we route to to minimize end deviation?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\25_base_ceb01bae90"
+  },
+  {
+    "block_id": 25,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Recommend which resource group to route to in order to minimize end deviation.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\25_alt1_ea55de8eb0"
+  },
+  {
+    "block_id": 25,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Which resource group would best minimize end deviation if we route work there?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\25_alt2_6dd3fb876c"
+  },
+  {
+    "block_id": 25,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Suggest a resource group to route to so that end deviation is minimized.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\25_alt3_19c03a194c"
+  },
+  {
+    "block_id": 26,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Which operation type would be best for low cycle times?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\26_base_6244a0b7b3"
+  },
+  {
+    "block_id": 26,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Identify the operation type that is best for low cycle times.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\26_alt1_8680b26245"
+  },
+  {
+    "block_id": 26,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Which operation type tends to give the lowest cycle times?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\26_alt2_1949a13e9d"
+  },
+  {
+    "block_id": 26,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Recommend an operation type for achieving low cycle times.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\26_alt3_c7a0f43f41"
+  },
+  {
+    "block_id": 27,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "I want to improve cycle time (lower is better). What can I do? Show me decision options.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\27_base_eb78021c36"
+  },
+  {
+    "block_id": 27,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "I want to improve cycle time (lower is better). What decisions can I make? Show me decision options.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\27_alt1_50615d8a60"
+  },
+  {
+    "block_id": 27,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "To improve cycle time (lower is better), what can I do? Please show decision options.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\27_alt2_c738b079fd"
+  },
+  {
+    "block_id": 27,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "I want lower cycle time (lower is better). Show me decision options to achieve that.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\27_alt3_e814ece658"
+  },
+  {
+    "block_id": 28,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "For unfinshed operations: I want to decrease start deviation. What do I need to work on?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\28_base_cee9d7f52c"
+  },
+  {
+    "block_id": 28,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "For unfinshed operations, what should I work on to decrease start deviation?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\28_alt1_392b62052e"
+  },
+  {
+    "block_id": 28,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "For unfinshed operations: identify what I need to improve to decrease start deviation.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\28_alt2_eeb9915f20"
+  },
+  {
+    "block_id": 28,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "For unfinshed operations: show the main levers to decrease start deviation.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\28_alt3_fb0462d520"
+  },
+  {
+    "block_id": 29,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "Could I improve average cycle time if I use '3D CAM' as a substitute for  ‘CAM-Fertigung’?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\29_base_8e13922b95"
+  },
+  {
+    "block_id": 29,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Would average cycle time improve if I use '3D CAM' as a substitute for  ‘CAM-Fertigung’?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\29_alt1_91588247b9"
+  },
+  {
+    "block_id": 29,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "Estimate the impact on average cycle time if we substitute  ‘CAM-Fertigung’ with '3D CAM'.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\29_alt2_9cf9ead656"
+  },
+  {
+    "block_id": 29,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "If '3D CAM' replaces  ‘CAM-Fertigung’, could average cycle time get better?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\29_alt3_029be692ce"
+  },
+  {
+    "block_id": 30,
+    "variant": "base",
+    "status": "ok",
+    "prompt": "What happens to expected end-date deviation if we route work to 'Fräsen Gruppe 5-Achs' instead of ‘Fräsen DM100’?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\30_base_ecbf1b8fa4"
+  },
+  {
+    "block_id": 30,
+    "variant": "alt1",
+    "status": "ok",
+    "prompt": "Estimate expected end-date deviation if we route work to 'Fräsen Gruppe 5-Achs' instead of ‘Fräsen DM100’.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\30_alt1_4316a331f4"
+  },
+  {
+    "block_id": 30,
+    "variant": "alt2",
+    "status": "ok",
+    "prompt": "How would expected end-date deviation change by routing to 'Fräsen Gruppe 5-Achs' rather than ‘Fräsen DM100’?",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\30_alt2_cf01e7a627"
+  },
+  {
+    "block_id": 30,
+    "variant": "alt3",
+    "status": "ok",
+    "prompt": "Predict the expected end-date deviation when routing to 'Fräsen Gruppe 5-Achs' instead of ‘Fräsen DM100’.",
+    "artifact_dir": "C:\\Users\\DarioKulaszewski\\OneDrive - deepIng business solutions GmbH\\deepIng - Team - Dokumente\\23 Projekte\\2024 deep.Control\\data_agent_deeping\\project_v2\\run_reports\\batch_20260202_184445\\30_alt3_48ec7d9a8a"
+  }
+]

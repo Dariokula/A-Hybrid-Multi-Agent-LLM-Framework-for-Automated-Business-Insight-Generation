@@ -1,0 +1,1 @@
+Estimate weekly average Lead-time deviation across the next 16 weeks.

@@ -1,0 +1,1 @@
+Which operation type tends to give the lowest cycle times?

@@ -1,0 +1,1 @@
+Give me summary statistics for the cycle times in ressource group Drahtschneiden.

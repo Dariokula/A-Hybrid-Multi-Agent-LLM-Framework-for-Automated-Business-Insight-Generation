@@ -1,0 +1,1 @@
+Given start is 10 days early and resource group ‘Fräsen DM100’, classify the most likely ta_status.

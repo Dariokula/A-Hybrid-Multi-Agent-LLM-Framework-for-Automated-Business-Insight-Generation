@@ -1,0 +1,1 @@
+Report the main descriptive statistics of cycles times for finished operations.

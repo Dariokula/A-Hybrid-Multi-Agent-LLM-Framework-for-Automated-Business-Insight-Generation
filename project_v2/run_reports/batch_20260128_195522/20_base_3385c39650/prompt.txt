@@ -1,0 +1,1 @@
+Classify a likely ta status in a situation where the operation startet 20 days early with a 'Funktionsprüfung'.

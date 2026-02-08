@@ -1,0 +1,1 @@
+Classify the expected ta status for a operation type 'Kleinbauteile schlichten' given a cycle time of 1.

@@ -1,0 +1,1 @@
+Given start delay of 10 days and run-through time of 3 days, what end-date deviation do you expect for a new case?

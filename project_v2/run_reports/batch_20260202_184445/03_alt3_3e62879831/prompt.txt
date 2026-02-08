@@ -1,0 +1,1 @@
+Compute a descriptive statistical summary of cycle times for ressource group Drahtschneiden.

@@ -1,0 +1,1 @@
+Given lead time is 3 days and start deviation is -20 days, predict the lead time deviation.

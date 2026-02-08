@@ -1,0 +1,1 @@
+Estimate the expected end-date deviation for a new case given start delay of 10 days and run-through time of 3 days.

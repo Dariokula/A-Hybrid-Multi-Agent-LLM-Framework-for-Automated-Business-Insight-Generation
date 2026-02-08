@@ -1,0 +1,1 @@
+Show a comparison of the max lead times for Fräsen Gruppe Kleinteile by operation type.

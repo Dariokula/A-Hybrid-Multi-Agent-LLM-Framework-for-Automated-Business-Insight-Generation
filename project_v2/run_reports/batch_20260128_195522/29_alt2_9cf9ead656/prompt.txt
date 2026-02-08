@@ -1,0 +1,1 @@
+Estimate the impact on average cycle time if we substitute  ‘CAM-Fertigung’ with '3D CAM'.

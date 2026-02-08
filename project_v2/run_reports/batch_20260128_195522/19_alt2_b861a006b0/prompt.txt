@@ -1,0 +1,1 @@
+For a operation type 'Kleinbauteile schlichten' with a cycle time of 1, what ta status should we expect?

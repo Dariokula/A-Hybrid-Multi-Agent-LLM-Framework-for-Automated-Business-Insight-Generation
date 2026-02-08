@@ -1,0 +1,1 @@
+For finished operations only, show how the numerical values in the data relate to each other.

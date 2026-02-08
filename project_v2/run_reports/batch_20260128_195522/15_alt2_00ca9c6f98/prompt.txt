@@ -1,0 +1,1 @@
+Predict the expected end-date deviation for a new case with start delay of 10 days and run-through time of 3 days.

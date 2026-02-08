@@ -1,0 +1,1 @@
+Report the key descriptive statistics for end schedule deviation in Konstruktion operations.

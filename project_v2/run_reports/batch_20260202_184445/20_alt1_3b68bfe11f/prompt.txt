@@ -1,0 +1,1 @@
+Predict a likely ta status when the operation startet 20 days early with a 'Funktionsprüfung'.

@@ -1,0 +1,1 @@
+What are average cycle times by ressource group for finished parts?
