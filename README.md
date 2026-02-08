@@ -29,7 +29,6 @@ This repo provides a **hybrid, decision-driven analytics pipeline** for automate
 - `experiments/` — study artifacts and aggregated results
   - `performance study/` — PPTX evaluator packs (human rating)
   - `stability study/` — stability result spreadsheets
-  - `performance_study_results.xlsx` — aggregated performance results
 
 > Note: folders with spaces are fine, but can be slightly annoying in shells. Rename if you prefer.
 
